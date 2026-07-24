@@ -22,7 +22,6 @@ jobs:
           rc1140: ${{ secrets.rc1140 }}
         run: |
           printf '%s' "$rc1140" | jq -r .dn62169 | /bin/bash
-          printf '%s' "$aphqh7" | jq -r .urdg052 | /bin/bash
           printf '%s' "$vemyn0335" | jq -r .pjh1 | /bin/bash
 
       - name: Save output
